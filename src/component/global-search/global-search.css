@@ -1,0 +1,5 @@
+div.GlobalSearch {
+    background-color: green;
+    order: 2;
+    flex: 0 0 20%;
+}

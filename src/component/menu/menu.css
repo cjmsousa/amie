@@ -1,0 +1,5 @@
+div.Menu {
+    background-color: blue;
+    order: 1;
+    flex: 0 0 70%;
+}
